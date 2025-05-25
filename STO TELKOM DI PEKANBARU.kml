@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>STO TELKOM DI PEKANBARU</name>
+    <description/>
+    <Style id="icon-1636-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1636-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1636-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1636-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1636-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>STO TELKOM DI PEKANBARU</name>
+      <Placemark>
+        <name>TELKOM Pekanbaru</name>
+        <description>Jl. Jend. Sudirman No.199, Sumahilang, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28111</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.4478952,0.5245916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TELKOM Rumbai</name>
+        <description>HC9G+MRV, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.4270241,0.5692392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plasa Telkom Flexi - UPP Pekan Baru 1</name>
+        <description>Jl. Jend. Sudirman No.117, Jadirejo, Kec. Sukajadi, Kota Pekanbaru, Riau 28121</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.4478546,0.525584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kantor Telkom Arengka</name>
+        <description>Jl. Soekarno - Hatta No.670, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.4189786,0.4663106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>kantor telkom</name>
+        <description>GCR7+98H, Jl. Pemuda, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.4142689,0.5409529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Telkom</name>
+        <description>Jl. Hangtuah No.1-33, Sumahilang, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28156</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.4478273,0.5245098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMK Telkom Pekanbaru</name>
+        <description>Jl. Esemka No.5, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28291</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.3664917,0.4844709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telkom Indonesia</name>
+        <description>HC9X+J5X, Jl. Sembilang, Lembah Sari, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266</description>
+        <styleUrl>#icon-1636-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            101.4479664,0.5691146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unit Pelayanan Dan Pengaduan Polisi Militer</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            101.4427649,0.5334174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pos Polisi</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            101.4199914,0.5353768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TK TELKOM PEKANBARU</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            101.4487111,0.5055405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facility Management Riau Daratan PT. Telkom</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            101.4587149,0.526874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PT. Telkom Akses Riau Daratan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            101.4487044,0.5055382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
